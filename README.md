@@ -4,3 +4,5 @@ Estado del proyecto: En construcción.
 
 Esta es una edición del archivo README.md utilizando el icono correspondiente.
 Tambien es un ejemplo del uso del lenguaje de ``marcación``. 
+
+Esta es una actualización del README para ejemplificar los comandos desde git bash
